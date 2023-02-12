@@ -48,6 +48,14 @@ It is not recommended to run Magisk Delta 32-bit as these features are positione
 
 - [Magisk Delta documentation](https://github.com/HuskyDG/magisk-files/tree/main)
 
+#### Debug Releases
+
+> If you have issues with the forks then it would be helpful to install the debug builds and grab logs
+
+- [Download Magisk 32-bit Debug](https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-32bit-debug.apk)
+
+- [Download Magisk Delta 32-bit Debug](https://raw.githubusercontent.com/Namelesswonder/magisk-files/main/magisk-delta-32bit-debug.apk)
+
 ## Installation
 
 **It is best to follow the steps from the [XDA thread](https://forum.xda-developers.com/t/4521029)**
