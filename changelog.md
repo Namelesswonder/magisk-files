@@ -1,5 +1,10 @@
 **Magisk 32-bit and Magisk Delta 32-bit Changelog**
 
+## Magisk 32-bit b27e4930-32bit (25210)
+
+- Magisk 32-bit b27e4930-32bit (25210) is based on [fe6b658c](https://github.com/topjohnwu/Magisk/commit/fe6b658c028e30f2972dd854b02ef2dd9a99d5b7)
+- Fixes navigational issues in the app, like not being able to back out of the flash/install log window.
+
 ## Magisk 32-bit b8989a16-32bit (25210)
 
 - Magisk 32-bit b8989a16-32bit (25210) is based on [1a164679](https://github.com/topjohnwu/Magisk/commit/1a1646795f6956294ec14eb6b148676d22dc7e63)
