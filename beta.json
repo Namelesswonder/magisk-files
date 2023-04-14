@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "2ee5dc0f",
+    "versionCode": "26101",
+    "link": "https://cdn.jsdelivr.net/gh/Namelesswonder/magisk-files@1d42901229ea10623c33f8e2401c9d61fe8d8ce2/magisk-zygote64_32-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/Namelesswonder/magisk-files@1d42901229ea10623c33f8e2401c9d61fe8d8ce2/notes.md"
+  },
+  "stub": {
+    "versionCode": "36",
+    "link": "https://cdn.jsdelivr.net/gh/Namelesswonder/magisk-files@1d42901229ea10623c33f8e2401c9d61fe8d8ce2/magisk-zygote64_32-stub-release.apk"
+  }
+}
