@@ -1,5 +1,10 @@
 **Magisk Zygote64_32 and Magisk Delta 32-bit Changelog**
 
+## Magisk Zygote64_32 96253874 (26101)
+
+- Magisk Zygote64_32 96253874 (26101) is based on [0cf0d2b8](https://github.com/topjohnwu/Magisk/commit/0cf0d2b82118252525994ef0cbe756e9e59184c9)
+- New workaround when running as Zygote64 that uses less space in the initrd
+
 ## Magisk Zygote64_32 2ee5dc0f (26101)
 
 - Magisk Zygote64_32 2ee5dc0f (26101) is based on [468f3efb](https://github.com/topjohnwu/Magisk/commit/468f3efb13d297a387d951c24035435bae705b97)
